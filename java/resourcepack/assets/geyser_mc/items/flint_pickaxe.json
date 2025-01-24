@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:broken",
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "geyser_mc:item/flint_pickaxe_broken"
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "geyser_mc:item/flint_pickaxe"
+    }
+  }
+}

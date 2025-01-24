@@ -1,0 +1,18 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "GeyserMC mappings resourcepack",
+		"description": "A resourcepack to demonstrate how the Geyser v2 item mappings work",
+		"uuid": "c031dbd6-68f2-4659-a33d-461d3176c20d",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"description": "Pack",
+			"type": "resources",
+			"uuid": "6df22ff5-c843-4189-b26c-ae2be4ce8dac",
+			"version": [0, 0, 1]
+		}
+	]
+}

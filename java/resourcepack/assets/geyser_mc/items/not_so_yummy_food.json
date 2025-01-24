@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:context_dimension",
+    "cases": [
+      {
+        "when": "minecraft:the_end",
+        "model": {
+          "type": "minecraft:model",
+          "model": "geyser_mc:item/not_so_yummy_food_end"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "geyser_mc:item/not_so_yummy_food"
+    }
+  }
+}

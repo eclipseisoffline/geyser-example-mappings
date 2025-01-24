@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "geyser_mc_mappings",
+  "texture_data": {
+    "geyser_mc.yummy_food": {
+      "textures": "textures/item/yummy_food"
+    },
+    "geyser_mc.not_so_yummy_food": {
+      "textures": "textures/item/not_so_yummy_food"
+    },
+    "geyser_mc.not_so_yummy_food_end": {
+      "textures": "textures/item/not_so_yummy_food_end"
+    },
+    "geyser_mc.magic_item": {
+      "textures": "textures/item/magic_item"
+    },
+    "geyser_mc.flint_pickaxe": {
+      "textures": "textures/item/flint_pickaxe"
+    },
+    "geyser_mc.flint_pickaxe_broken": {
+      "textures": "textures/item/flint_pickaxe_broken"
+    },
+    "geyser_mc.red_wool_chestplate": {
+      "textures": "textures/item/red_wool_chestplate"
+    }
+  },
+  "texture_name": "atlas.items"
+}

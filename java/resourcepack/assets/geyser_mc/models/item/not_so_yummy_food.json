@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "geyser_mc:item/not_so_yummy_food"
+  }
+}

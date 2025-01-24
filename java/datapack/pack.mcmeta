@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "A datapack to demonstrate how the Geyser v2 item mappings work",
+    "pack_format": 61
+  }
+}
