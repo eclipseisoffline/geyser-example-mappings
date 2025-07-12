@@ -2,7 +2,7 @@
 
 Example item mappings for the Geyser item API (v2), that can be used for testing, and, well, examples. 
 
-This repository consists of a Java datapack, a Java resourcepack, Geyser item mappings and a Bedrock resourcepack. To use these, you must set up a Java 1.21.4 server with a Geyser build from [this PR](https://github.com/GeyserMC/Geyser/pull/5189). Install the Java datapack, Geyser mappings, and Bedrock resourcepack on your server and the Java resourcepack on your Java client. Then, run `/function geyser_mc:give_all` to receive all of the custom items.
+This repository consists of a Java datapack, a Java resourcepack, Geyser item mappings and a Bedrock resourcepack. To use these, you must set up a Java 1.21.7 server with a Geyser build from [this PR](https://github.com/GeyserMC/Geyser/pull/5189). Install the Java datapack, Geyser mappings, and Bedrock resourcepack on your server and the Java resourcepack on your Java client. Then, run `/function geyser_mc:give_all` to receive all of the custom items.
 
 ## License
 
